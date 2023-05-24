@@ -21,6 +21,7 @@ ul{
     width: 100%;
     gap: 25px;
     padding: 5px 10px 0 60%;
+    padding-top: 20px;
 }
 
 .mobile__header{
