@@ -303,9 +303,10 @@ display: none;}
 .img-header__mobile{
     position: absolute;
     display: block;
-    width: 300px;
+    width: 100%;
     height: 300px;
-    bottom: 5px;
+    bottom: -19px;
+    right: 37px;
     z-index: 2;
 }
 
